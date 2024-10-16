@@ -4,18 +4,8 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <title>은빛 - 동물복지 유정란</title>
-    <style>
-        /* 제목과 부제목 색상 설정 */
-        h1, p {
-            color: navy; /* 진한 남색 */  }
-        .green-text {
-            color: green;
-            font-weight: bold;}
-    </style>
 </head>
 <body>
-    <!-- 1. 브랜드 제목과 부제목 -->
     <div style="background-color: beige; padding: 20px; border-radius: 10px;">
     <h1> 🥚 은 빛 🥚 </h1>
     <p> 행복한 닭이 낳은 은빛의 계란! <br>
