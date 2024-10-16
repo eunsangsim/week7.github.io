@@ -15,34 +15,27 @@
     </style>
 </head>
 <body>
-
     <!-- 1. 브랜드 제목과 부제목 -->
     <div style="background-color: beige; padding: 20px; border-radius: 10px;">
     <h1> 🥚 은 빛 🥚 </h1>
     <p> 행복한 닭이 낳은 은빛의 계란! <br>
        <span class="green-text">동물복지</span> 유정란으로 더 맛있고 윤리적인 선택을 시작해보세요.</p>
     </div>
-
-    <!-- 2. 제품 소개 (3가지 제품) -->
     <h2>우리의 제품</h2>
-
     <div>
         <h3>은빛 훈제란</h3>
         <img src="media/훈제.jpg" width=200 height=200 alt="훈제란 이미지">
         <button>바로 구매</button>
     </div>
-
     <div>
         <h3>촉촉한 은빛 반숙란</h3>
         <img src="media/반숙.jpg" width=200 height=200 alt="반숙란 이미지">
         <button>바로 구매</button>
     </div>
-
     <!-- 3. 검색창 -->
     <h2>검색하기 🔍</h2>
     <input type="text" placeholder="찾고 싶은 정보를 입력하세요">
     <button>검색</button>
-
     <!-- 4. 왜 4번란이 아닌 2번란과 1번란을 선택해야 하는지 설명 -->
     <footer>
         <div style="background-color: beige; padding: 20px; border-radius: 10px;">
